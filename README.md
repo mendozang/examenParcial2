@@ -13,4 +13,5 @@ Cuatrimestre: 3°
 Grupo: D
 
 2° Parcial
+
 01/07/2024
